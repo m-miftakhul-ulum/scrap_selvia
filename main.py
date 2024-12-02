@@ -29,8 +29,8 @@ for link in links:
 
 
 df = pd.DataFrame(gabung)
-df.to_csv('datanya.csv', index=False)
-df.to_excel('datanya.xlsx', index=False)
+df.to_csv('data_list.csv', index=False)
+df.to_excel('data_list.xlsx', index=False)
 
 print("success")
 

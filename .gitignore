@@ -1,1 +1,13 @@
+js/
 venv/
+.env
+(test)linkedin.py
+api-key.json
+chromedriver.exe
+cookies.json
+data_list.csv
+data_list.xlsx
+linkedin_data.csv
+linkedin.py
+quickstart.py
+
